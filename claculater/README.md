@@ -1,19 +1,8 @@
 # claculater
 
-## Project setup
-```
-npm install
-```
+---
+title: make claculater
+---
+description: make calculater with vue.js & SASS
+---
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
